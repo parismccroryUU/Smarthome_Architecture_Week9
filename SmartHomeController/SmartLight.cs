@@ -9,7 +9,7 @@ namespace SmartHomeController
         // private fields
         private double brightness;
         private string colour;
-
+         
 
         // public properties
         public double Brightness
